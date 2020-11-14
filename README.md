@@ -4,11 +4,11 @@ Big Data and ML codes in Scala and Python
 List of Codes with description:
 
 Scala :
-1.
-2.
-3.
-4.
-5.
+/n 1.
+/n 2.
+/n 3.
+/n 4.
+/n .
 
 
 Streaming with Scala:
